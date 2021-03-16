@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="time_view" type="id" />
+    <item name="start_button" type="id" />
+    <item name="stop_button" type="id" />
+    <item name="reset_button" type="id" />
+</resources>
